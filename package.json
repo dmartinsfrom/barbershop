@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "dotenv-cli": "^10.0.0",
+    "prisma": "^6.18.0"
+  },
+  "dependencies": {
+    "postgres": "^3.4.7"
+  }
+}
